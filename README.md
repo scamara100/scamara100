@@ -101,8 +101,8 @@
 
 📩 **Email:** [Contact-me](mailto:s.camara2277@gmail.com)  
 🔗 **Portfolio:** [My-portfolio](https://your-portfolio.com)  
-💼 **LinkedIn:** [My-Linkedin-Profile](https://linkedin.com/in/scamara100)  
-🐦 **Twitter:** [My-twitter-Profile](https://twitter.com/scamara100)  
+💼 **LinkedIn:** [My-linkedin-profile](https://linkedin.com/in/scamara100)  
+🐦 **Twitter:** [My-twitter-profile](https://twitter.com/scamara100)  
 
 ---
 
