@@ -99,10 +99,10 @@
 
 ## 📬 **Contact Me**  
 
-📩 **Email:** [your.email@example.com](mailto:s.camara2277@gmail.com)  
-🔗 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/scamara100)  
-🐦 **Twitter:** [twitter.com/yourhandle](https://twitter.com/scamara100)  
+📩 **Email:** [Contact-me](mailto:s.camara2277@gmail.com)  
+🔗 **Portfolio:** [My-portfolio](https://your-portfolio.com)  
+💼 **LinkedIn:** [My-Linkedin-Profile](https://linkedin.com/in/scamara100)  
+🐦 **Twitter:** [My-twitter-Profile](https://twitter.com/scamara100)  
 
 ---
 
