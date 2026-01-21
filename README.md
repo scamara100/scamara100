@@ -77,18 +77,18 @@
 
 ### **Personal Portfolio**  
  🔗 [GitHub Repository](#)  
-✅ Designed a portfolio showcasing expertise and projects.  
-✅ Created with a **modern and responsive UI**.  
+✅Designed a portfolio showcasing expertise and projects.  
+✅Created with a **modern and responsive UI**.  
 🛠 **Technologies:** *HTML, CSS, Tailwind, JavaScript*
 ---
-
 ##📚 **Education & Training**
-
-🎓 *Per Scholas — Software Engineering Program* (Expected April 2026)
-🎓 *IBM Full Stack Software Developer Professional Certificate* (In Progress)
-🎓*BS Computer Engineering (Senior Level)* — Gamal Abdel Nasser University
+🎓 **Per Scholas — Software Engineering Program** (Expected April 2026)
+🎓 **IBM Full Stack Software Developer Professional Certificate** (In Progress)
+🎓**BS Computer Engineering (Senior Level)** — Gamal Abdel Nasser University
 🎓 **LinkedIn Learning Certifications** – Agile Development, AWS Cloud Practitioner*  
-🎓 *ESOL & Customer Service Certificate* – New Haven Adult & Continuing Education Center, 2024*  
+🎓 **ESOL & Customer Service Certificate** – New Haven Adult & Continuing Education Center, 2024
+
+
 ---
 
 ## 📬 **Contact Me**  
