@@ -3,7 +3,6 @@
 ## 🚀 **Software Engineer | Full Stack Developer | React • Node.js • MongoDB • Python • Cloud Fundamentals**  
 
 🎯 Passionate about **Software Engineer and Full Stack Developer, and DevOps,** with hands-on experience building scalable web applications using **JavaScript, React, Node.js, MongoDB, Python, and RESTful API.s**
-📍 
 🌱 I am currently completing the **Per Scholas Software Engineering program** and the **IBM Full Stack Developer Professional Certificate**, where I focus on building production-ready applications and collaborating in Agile development environments. 
 
 ---
@@ -31,6 +30,10 @@
 ---
 
 ## 💼 **Work Experience**  
+### **Billing Coordinator Assistant** 
+📍 **Discovering Kindness in Home Services** | 🗓️ *Nov 2023 – Jul 2025*
+✅ Supported billing system workflows, data accuracy, and report generation
+✅ Maintained structured digital records and process automation
 
 ### **Technical Sales Manager**  
 📍 **C & D Intech – Conakry, Guinea** | 🗓️ *2020 – 2023*  
