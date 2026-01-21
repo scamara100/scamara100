@@ -1,32 +1,27 @@
 # 👋 Hello, I'm Sekouba Camara!       
 
-## 🚀 **Software Development Engineer Intern**  
+## 🚀 **Software Engineer | Full Stack Developer | React • Node.js • MongoDB • Python • Cloud Fundamentals**  
 
-🎯 Passionate about **full-stack development, cloud computing, and DevOps.**  
-📍 Experienced in **JavaScript, Python, and SQL**, with a strong foundation in **software engineering principles.**  
-🌱 Currently learning **Kubernetes, CI/CD, and cloud deployment.**  
+🎯 Passionate about **Software Engineer and Full Stack Developer, and DevOps,** with hands-on experience building scalable web applications using **JavaScript, React, Node.js, MongoDB, Python, and RESTful API.s**
+📍 
+🌱 I am currently completing the **Per Scholas Software Engineering program** and the **IBM Full Stack Developer Professional Certificate**, where I focus on building production-ready applications and collaborating in Agile development environments. 
 
 ---
 
 ## 🛠 **Technical Skills**  
 
-**Languages:**  
-🟢 JavaScript (3yrs) | 🟡 Python (2yrs) | 🟡 SQL (2yrs) | 🔵 C, C++, C# (2yrs) | 🟠 Java (1yr) | 🟠 MongoDB (1yr) | 🟠 PHP (1yr)  
-
-**Frameworks & Technologies:**  
-🖥 Django | Flask | React | Node.js | Express.js  
-
-**Software & Cloud:**  
-☁️ AWS | IBM Cloud | GCP | Docker | Kubernetes | GitHub  
-
-**Web Development:**  
-💻 HTML | CSS | Tailwind | Bootstrap  
+**Languages:** JavaScript (ES6+) | Python | SQL | Java (Foundational)
+**Frontend:** React | HTML5 | CSS3  Tailwind | Responsive Design
+**Backend:** Node.js | Express.js | RESTful APIs
+**Databases:** MongoDB | PostgreSQL | MySQL | SQLite
+**DevOps & Tools:** Git | GitHub | Docker | Kubernetes (Basics) | npm
+**Cloud:** AWS Fundamentals (EC2, S3, IAM)
+**Methodologies:** Agile/Scrum, MVC Architecture
 
 ---
 
 ## 🎯 **Additional Skills**  
 
-✔️ Front-end & Back-end Development  
 ✔️ Testing & Debugging  
 ✔️ DevOps & CI/CD Pipelines  
 ✔️ Agile & Team Collaboration  
@@ -63,38 +58,34 @@
 
 ## 🔥 **Projects**  
 
-### **University Management Software**  
-📅 *March 2023 - April 2023* | 🔗 [GitHub Repository](#)  
-✅ Built a system to track teachers, courses, and department heads.  
-✅ Improved administrative efficiency with centralized data.  
-🛠 **Technologies:** *C#, SQLite*  
+🛒 ### **E-Commerce Platform (Full Stack)**
+ 🔗 [GitHub Repository](#) 
+✅Tech Stack: React, Node.js, Express, MongoDB, Docker, Kubernetes
+✅Developing a scalable e-commerce web application with full CRUD functionality
+✅Built RESTful APIs for product management and user interactions
+✅Implemented responsive UI components using React and Tailwind
+✅Containerized services using Docker and Kubernetes for deployment readiness
 
 ### **Shop Management System**  
-📅 *Jul 2022 - Aug 2022* | 🔗 [GitHub Repository](#)  
+ 🔗 [GitHub Repository](#)  
 ✅ Developed software for inventory, stock management, and payments.  
 ✅ Automated workflows to enhance business operations.  
 🛠 **Technologies:** *Python, Tkinter, SQLite*  
 
 ### **Personal Portfolio**  
-📅 *December 2023* | 🔗 [GitHub Repository](#)  
+ 🔗 [GitHub Repository](#)  
 ✅ Designed a portfolio showcasing expertise and projects.  
 ✅ Created with a **modern and responsive UI**.  
-🛠 **Technologies:** *HTML, CSS, Tailwind, JavaScript*  
-
-### **E-commerce Platform for My Startup (In Progress)**  
-📅 *January 2025 – Present* | 🔗 [GitHub Repository](#)  
-✅ Developing a scalable e-commerce platform with product management features.  
-🛠 **Technologies:** *React.js, Node.js, MongoDB, Kubernetes, Cloud Deployment*  
-
+🛠 **Technologies:** *HTML, CSS, Tailwind, JavaScript*
 ---
 
-## 📜 **Certifications & Activities**  
+##📚 **Education & Training**
 
-✔️ **Certified Full-Stack Developer (Coursera)** – *Modern web development & deployment*  
-✔️ **Google Cloud & IBM Cloud Training (Coursera)** – *Hands-on experience in cloud computing*  
-✔️ **LinkedIn Learning Certifications** – *Agile Development, AWS Cloud Practitioner*  
-✔️ **ESOL & Customer Service Certificate** – *New Haven Adult & Continuing Education Center, 2024*  
-
+🎓 **Per Scholas — Software Engineering Program** (Expected April 2026)
+🎓 **IBM Full Stack Software Developer Professional Certificate** (In Progress)
+🎓 **BS Computer Engineering (Senior Level)** — Gamal Abdel Nasser University
+🎓 **LinkedIn Learning Certifications** – *Agile Development, AWS Cloud Practitioner*  
+🎓 **ESOL & Customer Service Certificate** – *New Haven Adult & Continuing Education Center, 2024*  
 ---
 
 ## 📬 **Contact Me**  
