@@ -32,7 +32,9 @@
 ## 💼 **Work Experience**  
 ### **Billing Coordinator Assistant** 
 📍 **Discovering Kindness in Home Services** | 🗓️ *Nov 2023 – Jul 2025*
+
 ✅ Supported billing system workflows, data accuracy, and report generation
+
 ✅ Maintained structured digital records and process automation
 
 ### **Technical Sales Manager**  
@@ -50,7 +52,8 @@
 
 ## 🎓 **Education & Training**  
 
-🎓 **Bachelor of Science in Computer Engineering**  
+🎓 **Bachelor of Science in Computer Engineering** 
+
 📍 University Gamal Abdel Nasser de Conakry (Online) | *2020 – Present*  
 📆 **Senior, Expected Graduation:** *2026*  
 
@@ -62,24 +65,31 @@
 ## 🔥 **Projects**  
 
 🛒 ### **E-Commerce Platform (Full Stack)**
- 🔗 [GitHub Repository](#) 
+
+ 🔗 [GitHub Repository](#)
+ 
 ✅Tech Stack: React, Node.js, Express, MongoDB, Docker, Kubernetes
-✅Developing a scalable e-commerce web application with full CRUD functionality
-✅Built RESTful APIs for product management and user interactions
-✅Implemented responsive UI components using React and Tailwind
+
+✅Developing a scalable e-commerce web application with full CRUD functionality.
+
+✅Built RESTful APIs for product management and user interactions.
+
+✅Implemented responsive UI components using React and Tailwind.
+
 ✅Containerized services using Docker and Kubernetes for deployment readiness
 
-### **Shop Management System**  
- 🔗 [GitHub Repository](#)  
-✅ Developed software for inventory, stock management, and payments.  
-✅ Automated workflows to enhance business operations.  
-🛠 **Technologies:** *Python, Tkinter, SQLite*  
+### **Task Management Web Application**  
+ 🔗 [GitHub Repository](#https://github.com/scamara100/task-management-app)  
+✅ Engineered a state-driven task management SPA with dynamic DOM rendering, LocalStorage persistence, and automatic overdue detection.  
+✅ Implemented modular JavaScript architecture, unique ID generation, filtering logic, and real-time status updates.  
+🛠 **Technologies:** *HTML5, Tailwind CSS, JavaScript (ES6+), LocalStorage API.*  
 
 ### **Personal Portfolio**  
- 🔗 [GitHub Repository](#)  
+ 🔗 [GitHub Repository](#https://github.com/scamara100/scamara100.github.io)  
 ✅Designed a portfolio showcasing expertise and projects.  
 ✅Created with a **modern and responsive UI**.  
 🛠 **Technologies:** *HTML, CSS, Tailwind, JavaScript*
+
 ---
 ##📚 **Education & Training**
 🎓 **Per Scholas — Software Engineering Program** (Expected April 2026)
